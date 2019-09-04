@@ -51,8 +51,8 @@ PHP를 이용한 백엔드 및 프론트 개발을 학습합니다.
 * 김민성 201540206  
 저장소: https://github.com/msg824/php_201540206  
 
-* 엄인섭
-저장소:
+* 엄인섭(201640125)
+저장소: https://github.com/InseopEom/PHP2_201640125  
 
 * 윤인하 (201640225)  
 저장소: https://github.com/inhayun/php_201640225  
