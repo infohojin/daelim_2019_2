@@ -30,8 +30,8 @@ PHP를 이용한 백엔드 및 프론트 개발을 학습합니다.
 * 김민하 (201840207)  
 저장소: https://github.com/kimminha371/php_201840207  
 
-* 유영준
-저장소:
+* 유영준 (201640223)  
+저장소: https://github.com/dudwns1013/php_201640223  
 
 * 김종호 (201840209)  
 저장소: https://github.com/KimJongHoDea/php.201840209  
