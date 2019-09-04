@@ -21,8 +21,8 @@ PHP를 이용한 백엔드 및 프론트 개발을 학습합니다.
 * 고유리(201840204)  
 저장소: https://github.com/koyurii98/daelim_2019_2  
 
-* 김동현
-저장소:
+* 김동현 (201840205)  
+저장소:https://github.com/dhkiim7463/php_20184205
 
 * 김민우 (201840206)  
 저장소: https://github.com/chucksan/php_201840206  
