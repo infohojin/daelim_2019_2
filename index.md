@@ -42,8 +42,8 @@ PHP를 이용한 백엔드 및 프론트 개발을 학습합니다.
 * 강석주
 저장소:
 
-* 육지원
-저장소:
+* 육지원 (201640224)  
+저장소: https://github.com/jiwonyuk/php_201640224  
 
 * 박소현(201840213)  
 저장소: https://github.com/SoHyeonPark9714/php_201840213  
