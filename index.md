@@ -60,8 +60,8 @@ PHP를 이용한 백엔드 및 프론트 개발을 학습합니다.
 * 남기열 201640114  
 저장소: https://github.com/skarlduf/php_201640114.git
 
-* 조준명
-저장소:
+* 조준명 (201440231)  
+저장소: https://github.com/akodm/php_201440231  
 
 * 이광민 (201840222)  
 저장소: https://github.com/raim201840222/php_201840222  
