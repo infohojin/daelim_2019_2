@@ -69,8 +69,8 @@ PHP를 이용한 백엔드 및 프론트 개발을 학습합니다.
 * 윤성희
 저장소:
 
-* 이혜민
-저장소:
+* 이혜민 (201840128)  
+저장소:https://github.com/HmLee1024/php_201840128  
 
 * 황민지 (201840236)
 저장소: https://github.com/J-petto/phpstudy1  
