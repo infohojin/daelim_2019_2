@@ -18,8 +18,8 @@ PHP를 이용한 백엔드 및 프론트 개발을 학습합니다.
 * 이원택
 저장소:
 
-* 고유리(201840204)
-저장소:https://github.com/koyurii98/daelim_2019_2  
+* 고유리(201840204)  
+저장소: https://github.com/koyurii98/daelim_2019_2  
 
 * 김동현
 저장소:
